@@ -4,7 +4,7 @@
 
 Interactive program created with Java to help user calculate their HP, PCP, weekly fuel cost, monthly cost, and to recommend a car based on their lifestyle/input using a menu.
 
-This was my first project/assignment. All code was manually handwritten with no AI or autocomplete whatsoever. I have combined the README and the separate `reflection.txt` where we were asked to assess our own work against the included marking rubric. The code, README, and `reflection.txt` are in their original form, except the formatting has been updated for markdown.
+This was my first project/assignment, submitted on 2 November 2025. All code was manually handwritten with no AI or autocomplete whatsoever. I have combined the README and the separate `reflection.txt` where we were asked to assess our own work against the included marking rubric. The code, README, and `reflection.txt` are in their original form, except the formatting has been updated for markdown.
 
 ## Instructions
 
